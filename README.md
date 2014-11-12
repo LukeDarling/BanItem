@@ -1,4 +1,0 @@
-BanItem
-=======
-
-A PocketMine plugin
