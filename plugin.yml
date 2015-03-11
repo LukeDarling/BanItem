@@ -4,6 +4,7 @@ version: "2.1"
 api: [1.0.0]
 main: LDX\BanItem\Main
 load: POSTWORLD
+website: https://github.com/LDX-MCPE/BanItem
 commands:
   item:
     description: "Bans or unbans an item."
